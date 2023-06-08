@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherAndMap_abbasbntest</string>
+
+    <string name="Search">جستجو</string>
+    <string name="TEMP">temp</string>
+    <string name="STATUS">status</string>
+    <string name="CITY">city</string>
+    <string name="WEATHERSEARCH">جستجوی آب و هوا</string>
+</resources>
