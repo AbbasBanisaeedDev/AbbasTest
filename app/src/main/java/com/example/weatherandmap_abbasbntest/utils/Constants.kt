@@ -6,7 +6,7 @@ object Constants {
     const val CONNECTION_TIME = 60L
     const val API_KEY = "appid"
 
-    const val MY_API_KEY = "54a51242ac1310a6322198174ade0572"
+    const val MY_API_KEY = "put your custom api key from openweathermap.org"
 
 
 
